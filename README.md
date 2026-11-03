@@ -1,6 +1,6 @@
 # Student Marks and Grade Report
 
-A small Python command-line exercise that collects a student's marks in Backend, Frontend, and Design, calculates the average, assigns a letter grade, and prints a report.
+A Python command-line application for calculating student averages and generating grade reports.
 
 ## Features
 
